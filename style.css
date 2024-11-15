@@ -1,5 +1,4 @@
-
-        body {
+ body {
             background-color: lightblue;
             font-family: Arial, sans-serif;
         
@@ -22,7 +21,6 @@
         .image-container {
             text-align: center;
             margin: 20px 0;
-        
         }
         img {
             max-width: 100%;
@@ -39,4 +37,3 @@
         .highlight {
             color: blue
         }
-  
